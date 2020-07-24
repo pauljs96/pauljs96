@@ -3,7 +3,6 @@
 <html>
   <head>
    
-
   </head>
   <body >
     <h1 >Paul dice:</h1>
@@ -12,7 +11,7 @@
         <p align="center">Aprende y Haz proyectos</p>  
                  </div>   
      <p> Recursos de proyectos personales</p>
-       <img src="img.PNG" width="100%" height="100%">
+       <img src="img.PNG" width="250px" height="350px">
       
     
           
