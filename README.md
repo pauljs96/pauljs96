@@ -11,7 +11,7 @@
         <p align="center">Aprende y Haz proyectos</p>  
                  </div>   
      <p> Recursos de proyectos personales</p>
-       <img src="img.PNG" width="250px" height="350px">
+       <img src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" >
       
     
           
